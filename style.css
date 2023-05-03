@@ -83,13 +83,13 @@ body {
   cursor: pointer;
 }
 .one {
-  background-image: url(/resources/rock.png);
+  background-image: url(resources/rock.png);
 }
 .two {
-  background-image: url(/resources/paper.png);
+  background-image: url(resources/paper.png);
 }
 .three {
-  background-image: url(/resources/scissors.png);
+  background-image: url(resources/scissors.png);
   background-position: 0px 5px;
 }
 .result {
